@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kilwa220/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://kilwa220.github.io/interactive-rating-component/)
+- Solution URL: [click to see the solution](https://github.com/Kilwa220/interactive-rating-component)
+- Live Site URL: [Demo](https://kilwa220.github.io/interactive-rating-component/)
 
 ## My process
 
