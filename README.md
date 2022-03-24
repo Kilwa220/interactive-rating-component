@@ -29,12 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./chalange-photo.png)
+![](images/chalange-photo.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://kilwa220.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -48,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Kilwa48](https://www.your-site.com)
+- Website - [Kilwa48](https://kilwa220.github.io/Kilwa_Template/)
 - Frontend Mentor - [@Kilwa220](https://www.frontendmentor.io/profile/Kilwa220)
-- Twitter - [@jalal-eddine lhachmi](https://www.linkedin.com/in/jalallh/)
+- Linkedin - [@jalal-eddine lhachmi](https://www.linkedin.com/in/jalallh/)
 
