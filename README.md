@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./chalange-photo.png)
+![](images/chalange-photo.png)
 
 ### Links
 
